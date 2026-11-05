@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Active Sensing in Human Visual-Motor Tracking: Touch X experiments and analysis"
+authors:
+  - family-names: Omondi
+    given-names: Idah
+version: 1.0.0
+license: MIT
+keywords:
+  - active sensing
+  - haptics
+  - Touch X
+  - system identification

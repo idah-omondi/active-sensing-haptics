@@ -1,0 +1,40 @@
+# Raw data and per-run outputs, see data/README.md
+data/raw/*
+data/pilot/*
+!data/raw/.gitkeep
+!data/pilot/.gitkeep
+results/*
+!results/.gitkeep
+
+# Local participant list
+analysis/matlab/participants_local.m
+
+# Third-party files with their own licence
+third_party/*.m
+!third_party/README.md
+
+# Visual Studio
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.ipch
+*.sdf
+*.opensdf
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.tlog
+
+# MATLAB
+*.asv
+*.autosave
+slprj/
+
+# OS
+.DS_Store
+Thumbs.db
